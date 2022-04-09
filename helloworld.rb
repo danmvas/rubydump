@@ -1,0 +1,1 @@
+puts "Hello world!\nDo you use computer? Have you tHANKED ALAN TURING ATHEIST AND HOMOSEXUAL FATHER OF COMPUTER SCIENCE (1912-1954)"
